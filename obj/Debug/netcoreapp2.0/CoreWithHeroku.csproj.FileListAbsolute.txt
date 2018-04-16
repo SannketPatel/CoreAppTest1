@@ -1,0 +1,11 @@
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\bin\Debug\netcoreapp2.0\CoreWithHeroku.deps.json
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\bin\Debug\netcoreapp2.0\CoreWithHeroku.runtimeconfig.json
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\bin\Debug\netcoreapp2.0\CoreWithHeroku.runtimeconfig.dev.json
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\bin\Debug\netcoreapp2.0\CoreWithHeroku.dll
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\bin\Debug\netcoreapp2.0\CoreWithHeroku.pdb
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\obj\Debug\netcoreapp2.0\CoreWithHeroku.csprojResolveAssemblyReference.cache
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\obj\Debug\netcoreapp2.0\CoreWithHeroku.csproj.CoreCompileInputs.cache
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\obj\Debug\netcoreapp2.0\CoreWithHeroku.AssemblyInfoInputs.cache
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\obj\Debug\netcoreapp2.0\CoreWithHeroku.AssemblyInfo.cs
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\obj\Debug\netcoreapp2.0\CoreWithHeroku.dll
+D:\DemoProject\DotNetProjects\BariatricpalStoreAppBundle\CoreWithHeroku\obj\Debug\netcoreapp2.0\CoreWithHeroku.pdb
